@@ -1,0 +1,34 @@
+This was my code to loop through trying to avoid non-alpha characters
+
+    /*
+    int alphaInputStringLen = 0;
+    
+    for(int i = 0; i < inputStringLen ; i++) //loop through the text to count number of alpha characters
+    {
+        if(isalpha(inputString[i]))
+        {
+         alphaInputStringLen++;   
+        }
+     
+    }
+    printf("the number of alpha chars in the string is %i\n", alphaInputStringLen);
+    
+    
+    char alphaString[alphaInputStringLen];
+    
+    for(int i = 0; i < alphaInputStringLen ; i++)
+    {
+        if(isupper(alphaString[i]))
+        {
+            printf("%c", alphaString[i]);
+            alphaString[i] = cipherUpperCase(inputString[i], keyArray[i % keyLen]);
+        }
+        if(islower(alphaString[i]))
+        {
+            printf("%c", alphaString[i]);
+            alphaString[i] = cipherUpperCase(inputString[i], keyArray[i % keyLen]);
+        }
+    }
+    printf("\n some shit\n");
+    
+    */
