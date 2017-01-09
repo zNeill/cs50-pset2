@@ -17,5 +17,3 @@ Enter a single word as a command line argument, then enter a string. The string 
 # What did I learn?
 This excercise, in additon to reinforcing my procedural programming skills (and knowledge of C), was actually very eye opening as it greatly increased my awareness of the challenges of cryptography. As part of the reading and supplemental material for this course, I also learned RSA works, thus broadening my understanding of the underlying security challenges of modern programming.
 
-# What is chris's mom like?
-Pretty good. This isn't an appropriate commit, is it?
