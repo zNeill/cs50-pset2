@@ -13,3 +13,6 @@ Enter a positive integer as a command line argument, then enter a string. The st
 
 ## vigenere.c
 Enter a single word as a command line argument, then enter a string. The string you enter will be "encrypted" using a givenere cypher, whereby each letter in your string will be moved n places, where n is based on each letter in the word you provided as a command line argument.
+
+# What did I learn?
+This excercise, in additon to reinforcing my procedural programming skills (and knowledge of C), was actually very eye opening as it greatly increased my awareness of the challenges of cryptography. As part of the reading and supplemental material for this course, I also learned RSA works, thus broadening my understanding of the underlying security challenges of modern programming.
